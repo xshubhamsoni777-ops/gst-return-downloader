@@ -1,0 +1,10 @@
+# Credentials & client data - never commit
+*.xlsx
+!GST_Credentials_Template.xlsx
+_debug/
+_chrome_downloads_temp/
+*.pdf
+gstr 1/
+gstr 3b/
+__pycache__/
+*.pyc
